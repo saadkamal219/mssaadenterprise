@@ -1,0 +1,4 @@
+
+@media(max-width:960px){.hero .wrap,.two,.fg{grid-template-columns:1fr}.burger{display:block}
+.nav{position:absolute;left:0;right:0;top:72px;background:#fff;flex-direction:column;align-items:stretch;padding:12px 20px 20px;box-shadow:0 10px 20px rgba(0,0,0,.1);display:none}.nav.open{display:flex}.nav a:not(.btn){padding:10px 0}.nav .btn{text-align:center;margin-top:8px}}
+@media(max-width:560px){body{font-size:16px}.sec{padding:44px 0}.hero{padding:44px 0}.brand span{font-size:16px}.wa-fab{font-size:14px;padding:8px 12px}}
